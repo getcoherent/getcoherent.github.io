@@ -1,0 +1,13 @@
+<svg width="1280" height="499.99999999999994" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0.5" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_2_blur)" id="svg_2" transform="matrix(16.54258815092433,0,0,12.387231675599658,-372.873905561327,-1699.5519277979897) " xml:space="preserve" text-anchor="middle" font-family=" Sans-serif" font-size="24" y="165.45092" x="61.27438" stroke-width="0" stroke="#000000" fill="#000000">cohere</text>
+  <text font-style="normal" transform="matrix(16.54258815092433,0,0,12.387231675599658,-372.873905561327,-1699.5519277979897) " xml:space="preserve" text-anchor="middle" font-family=" Sans-serif" font-size="24" id="svg_1" y="165.45092" x="61.455731" stroke-width="0" stroke="#000000" fill="#3f3f3f">cohere</text>
+ </g>
+</svg>
